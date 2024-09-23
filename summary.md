@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Pacheck
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+BLDC motor driver project. Ordering JLCPCBA PCBA in order to build this BLDC driver.
 
 # Date Started
-11-16-2000
+9/00/2000
